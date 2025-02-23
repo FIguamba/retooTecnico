@@ -1,0 +1,11 @@
+C:\prueba_tecnica\microservicio-1\src\main\java\com\figuamba\prueba\controller\ClienteController.java
+C:\prueba_tecnica\microservicio-1\src\main\java\com\figuamba\prueba\exception\EntityNotFoundException.java
+C:\prueba_tecnica\microservicio-1\src\main\java\com\figuamba\prueba\exception\GlobalExceptionHandler.java
+C:\prueba_tecnica\microservicio-1\src\main\java\com\figuamba\prueba\exception\InvalidInputException.java
+C:\prueba_tecnica\microservicio-1\src\main\java\com\figuamba\prueba\exception\UniqueConstraintViolationException.java
+C:\prueba_tecnica\microservicio-1\src\main\java\com\figuamba\prueba\Microservicio1Application.java
+C:\prueba_tecnica\microservicio-1\src\main\java\com\figuamba\prueba\model\Cliente.java
+C:\prueba_tecnica\microservicio-1\src\main\java\com\figuamba\prueba\model\Persona.java
+C:\prueba_tecnica\microservicio-1\src\main\java\com\figuamba\prueba\repository\ClienteRepository.java
+C:\prueba_tecnica\microservicio-1\src\main\java\com\figuamba\prueba\service\ClienteService.java
+C:\prueba_tecnica\microservicio-1\src\main\java\com\figuamba\prueba\utils\EnumMensajes.java
